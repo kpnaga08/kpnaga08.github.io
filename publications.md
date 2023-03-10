@@ -10,7 +10,7 @@ permalink: /publications/
 <i class="ai ai-google-scholar ai-2x"></i> See [Google Scholar](https://scholar.google.com/citations?user=bYFMDisAAAAJ&hl=en) for a list of my publications and citations.
 
 
-# Peer-review activity
+## Peer-review activity
 ---
 
 [[Publons-profile](https://www.webofscience.com/wos/author/record/HJP-8817-2023)]
