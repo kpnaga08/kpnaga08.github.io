@@ -6,7 +6,7 @@ permalink: /publications/
 ---
 
 
-# Peer-review & Editorial activity
+# Peer-review activity
 
 [[Publons-profile](https://www.webofscience.com/wos/author/record/HJP-8817-2023)]
 
