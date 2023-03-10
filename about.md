@@ -1,8 +1,13 @@
 ---
 layout: page
-title: About
+title:
 permalink: /about/
+redirect_from:
+  - /index.html
 ---
+ <!-- <img src="{{ site.baseurl }}/images/Kris.jpg" width="25%"  align="right">  
+ <img src="{{ site.baseurl }}/images/Kris.jpg" style="width:25%; float: right; padding: 0px 0px 20px 20px">
+ -->
 
 I’m currently working as a postdoctoral researcher on themes related (but not limited) to clustering, pattern recognition, and multi-view learning.
 
