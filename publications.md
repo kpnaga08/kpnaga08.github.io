@@ -5,6 +5,7 @@ permalink: /publications/
 
 ---
 
+<div class="end-of-post"></div>
 
 # Peer-review activity
 
