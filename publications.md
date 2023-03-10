@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: 
 permalink: /publications/
 
 ---
@@ -9,7 +9,7 @@ permalink: /publications/
 
 <i class="ai ai-google-scholar ai-2x"></i> See [Google Scholar](https://scholar.google.com/citations?user=bYFMDisAAAAJ&hl=en) for a list of my publications and citations.
 
----
+
 # Peer-review activity
 ---
 
