@@ -5,6 +5,10 @@ permalink: /publications/
 
 ---
 
+<i class="fas fa-book-open fa-2x"></i> See [here](/publications) for a detailed list of my publications.
+
+<i class="ai ai-google-scholar ai-2x"></i> See [Google Scholar](https://scholar.google.com/citations?user=bYFMDisAAAAJ&hl=en) for a list of my publications and citations.
+
 <div class="end-of-post"></div>
 
 # Peer-review activity
