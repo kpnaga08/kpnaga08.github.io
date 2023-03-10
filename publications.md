@@ -13,7 +13,6 @@ permalink: /publications/
 ## Peer-review activity
 ---
 
-[[Publons-profile](https://www.webofscience.com/wos/author/record/HJP-8817-2023)]
 
 I have reviewed for the following journals/conferences:
 
